@@ -11,3 +11,6 @@ A clone is when you take an exact copy of a repository. Forking is a clone that 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you want to work offline, you can, and have the latest code possible.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You could email files back and forth, although having a central repository would be helpful. Also, you would have to be so on top of emailing people when you made changes, pushed code they should be looking at, etc. This centralized process is extremely helpful.
