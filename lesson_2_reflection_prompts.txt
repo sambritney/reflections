@@ -10,6 +10,8 @@ Staging is the in between area for working and repository. It let’s you prep t
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By always committing after making a logical change…..
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
