@@ -8,3 +8,6 @@ You wouldn’t want any of your work overridden, especially if there are multipl
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A clone is when you take an exact copy of a repository. Forking is a clone that is done on GitHub. Branches are spun off from a set of documents within a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you want to work offline, you can, and have the latest code possible.
