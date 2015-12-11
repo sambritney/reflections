@@ -26,3 +26,6 @@ The result is one branch, but with all the history of commits for the merged bra
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+There are definitely some things that can be missed via auto-merge. Someone’s new code could change something you don’t like. But at least part of it is auto, and then you can manually adjust anything that git can’t figure out.
+
+
