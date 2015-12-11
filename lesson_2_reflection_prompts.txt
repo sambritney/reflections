@@ -22,6 +22,7 @@ Good way to understand how things are branching out, as there could be multiple 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is one branch, but with all the history of commits for the merged branches. 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
