@@ -5,6 +5,8 @@ It let's git know that you are creating a new repository and want to use it for 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Staging is the in between area for working and repository. It let’s you prep things - identify the files you want to commit, rather than assuming the whole directory is to be committed.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
