@@ -14,3 +14,7 @@ If you want to work offline, you can, and have the latest code possible.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You could email files back and forth, although having a central repository would be helpful. Also, you would have to be so on top of emailing people when you made changes, pushed code they should be looking at, etc. This centralized process is extremely helpful.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If I was trying something that wasn’t fully baked yet, or tested, or where I wanted to keep my original version in case this variation didn’t go anywhere. Also, if I know others are working on pieces that collar with mine, this would be a good reason to work in a separate branch.
+
